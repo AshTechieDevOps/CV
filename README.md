@@ -106,6 +106,7 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
     steady state team for the same.
 	
  **Project Hudson Australia**
+ 
   I have been to Sydney – Australia for Active Directory and VMware vSphere related projects and to provide & implement improvements within their existing AD and
   VMware vSphere infrastructure. Below are the key points:-
 	
@@ -115,6 +116,7 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
    - Working as a Lead consultant for problem management to control the recurrence of the issue(s).
 
  **Project Bridgestone Europe**
+ 
    I have been to Belgium, Europe for a successful transition of their infrastructure and then managing & administrating the same from India.  Below is the
    summary of the responsibilities that includes in my KRAs to work as a Team Lead:-
 	 
