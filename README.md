@@ -6,7 +6,7 @@ I`m Ashish Sharma who have 24+ Years of Mix & Match Experience of Designing and 
 
 I do have good knowledge of Cisco InterSight along with Cisco UCS & Hyperflex. I have major expertise in Solution Designing of Datacenter and Network Virtualization using VMware vSphere, On-Premises to On-Premises and On-Premise to Cloud Migration & Transformation, Automated & Scripted Migration.🚀 I have also taken care of a variety of Greenfield and Brownfield Infrastructure Design, Management, and Security Compliance requirements._ <br>
 
-[email](mailto:sendmail.ashish@gmail.com;ashish@ashtechie.com) / [GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [Website](https://ashtechie.com/) / [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
+[email](mailto:ashish@ashtechie.com;sendmail.ashish@gmail.com) / [GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [Website](https://ashtechie.com/) / [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
 
 ##  Active Certifications
 
