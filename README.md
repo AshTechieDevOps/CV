@@ -1,6 +1,7 @@
 # Ashish Sharma
-  Email:- sendmail.ashish@gmail.com;ashish@ashtechie.com
-  Mobile:- +919810553282
+  [Email]:- sendmail.ashish@gmail.com;ashish@ashtechie.com
+  
+  [Mobile]:- +919810553282
 
 ![AshCertLogos](https://user-images.githubusercontent.com/110538923/193424037-d88ff36b-9a5b-472c-97e6-2eca7b6b9bbd.PNG)
 
