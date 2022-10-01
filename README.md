@@ -145,14 +145,14 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
   - WSUS Administration, its analysis, implementation, and impacts.
   - Datacenter Management, 200 Server’s Health checkups and its related activities like RAID Failure, Vendor Management & Downtime management etc.
 
-    **Projects Undertaken**
+ **Projects Undertaken**
     
-         - WSUS Installation and Configuration - Have successfully set up Windows Software Update Server (WSUS 2.0) With Master Server and Child Server Relationship
-	    across four Sites in Xansa. All Servers and Desktops in India and UK are currently being updated with the help of these WSUS Servers only.
-	 - VMWare ESX Server Installation - Have installed and Configured VMWare ESX 3.0 Enterprise Servers and setup virtual infrastructure within Xansa Offices
-	    across the Globe.
-	 - TSM Upgradation: Upgraded All TSM 5.2.4 servers with the TSM 5.3.2 including configuration of Policies.
-	 - Business Continuity Plan - Completed the survey of Major servers & available resources, Configured DR of major servers, application & services.
+  - WSUS Installation and Configuration - Have successfully set up Windows Software Update Server (WSUS 2.0) With Master Server and Child Server Relationship
+    across four Sites in Xansa. All Servers and Desktops in India and UK are currently being updated with the help of these WSUS Servers only.
+  - VMWare ESX Server Installation - Have installed and Configured VMWare ESX 3.0 Enterprise Servers and setup virtual infrastructure within Xansa Offices
+    across the Globe.
+  - TSM Upgradation: Upgraded All TSM 5.2.4 servers with the TSM 5.3.2 including configuration of Policies.
+  - Business Continuity Plan - Completed the survey of Major servers & available resources, Configured DR of major servers, application & services.
 
   - **_Technologies used:_** Windows Administrative Tools, Powershell, WSUS, TSM, AD, DFS, vCenter, ESX Hosts etc.
     <br><br>
