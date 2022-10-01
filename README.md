@@ -1,5 +1,5 @@
 # Ashish Sharma
-  **Email**:- sendmail.ashish@gmail.com;ashish@ashtechie.com
+  **Email**:- sendmail.ashish@gmail.com ashish@ashtechie.com
   
   **Mobile**:- +919810553282
 
