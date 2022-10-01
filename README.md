@@ -91,48 +91,46 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
 **Designation: ASSOCIATE CONSULTANT – MANAGER - SENIOR MANAGER** @ [HCL Technologies Ltd.](https://www.hcltech.com/) _(May 2008 - Nov 2012)_ <br>
  Had three time Overseas Business Travel to Belgium, Australia and Philippines. Worked and Supported for multiple project and BAU activities.
  
-    **Project CE**
+ **Project CE**
     
-      - Worked as a Service Owner for Wintel & VMware Tower for HCL Client named "Consumer Energy", USA.
+  - Worked as a Service Owner for Wintel & VMware Tower for HCL Client named "Consumer Energy", USA.
       
-    **Project Hudson**
+ **Project Hudson**
     
-      - Worked for a few technical project works related to Active Directory and VMware for Hudson OMC and Provided level 3 support for Wintel, Active Directory,
-        VMware Server Virtual Infrastructure and VMware View VDI.
+  - Worked for a few technical project works related to Active Directory and VMware for Hudson OMC and Provided level 3 support for Wintel, Active Directory,
+    VMware Server Virtual Infrastructure and VMware View VDI.
 	
-    **Project Macquarie**
+ **Project Macquarie**
     
-      - I have been to Manila, Philippines for a successful transition of Incident, change and problem management processes of Macquarie and provided KT to offshore
-        steady state team for the same.
+  - I have been to Manila, Philippines for a successful transition of Incident, change and problem management processes of Macquarie and provided KT to offshore
+    steady state team for the same.
 	
-    **Project Hudson Australia**
-    
-      - I have been to Sydney – Australia for Active Directory and VMware vSphere related projects and to provide & implement improvements within their existing AD and
-        VMware vSphere infrastructure. Below are the key points:-
+ **Project Hudson Australia**
+  I have been to Sydney – Australia for Active Directory and VMware vSphere related projects and to provide & implement improvements within their existing AD and
+  VMware vSphere infrastructure. Below are the key points:-
 	
-         - Active Directory Cleanup/Housekeeping
-	 - Thick to Thin conversion for their VMware vSphere virtual infrastructure.
-	 - Physical to Virtual Conversion for them out of warranty physical servers.
-	 - Working as a Lead consultant for problem management to control the recurrence of the issue(s).
+   - Active Directory Cleanup/Housekeeping
+   - Thick to Thin conversion for their VMware vSphere virtual infrastructure.
+   - Physical to Virtual Conversion for them out of warranty physical servers.
+   - Working as a Lead consultant for problem management to control the recurrence of the issue(s).
 
-    **Project Bridgestone Europe**
-    
-       - I have been to Belgium, Europe for a successful transition of their infrastructure and then managing & administrating the same from India.  Below is the
-         summary of the responsibilities that includes in my KRAs to work as a Team Lead:-
+ **Project Bridgestone Europe**
+   I have been to Belgium, Europe for a successful transition of their infrastructure and then managing & administrating the same from India.  Below is the
+   summary of the responsibilities that includes in my KRAs to work as a Team Lead:-
 	 
-         - Administering and managing Active Directory components.
-	 - Administering and managing VMware virtual infrastructure.
-	 - Administering and managing different Windows Components and Managing HP SAN.
-	 - Working as a Technical lead in various projects & managing tracks like Wintel/Backup/Networks.
+   - Administering and managing Active Directory components.
+   - Administering and managing VMware virtual infrastructure.
+   - Administering and managing different Windows Components and Managing HP SAN.
+   - Working as a Technical lead in various projects & managing tracks like Wintel/Backup/Networks.
 
-    **Project DowJones**
+ **Project DowJones**
     
-         - Managed end to end IT infrastructure support for dowjones, a leading player in global business news, and the publisher of wall street journal.
-	 - Worked for problem management, change management & incident management.
-	 - Team management.
-	 - Provided L3 support for Wintel, backup & VMware virtual infrastructure.
-	 - Conducting internal technical trainings for the subordinates.
-	 - Taking care of VMWare related health check, and compliance related requirements on quarterly basis.
+   - Managed end to end IT infrastructure support for dowjones, a leading player in global business news, and the publisher of wall street journal.
+   - Worked for problem management, change management & incident management.
+   - Team management.
+   - Provided L3 support for Wintel, backup & VMware virtual infrastructure.
+   - Conducting internal technical trainings for the subordinates.
+   - Taking care of VMWare related health check, and compliance related requirements on quarterly basis.
 
   - **_Technologies used:_** vRealize Operations Manager, RVTools, VMWare Powercli scripts, vCenter, ESXi hosts, Update Manager, Windows Administrative Tools, vRO,
                              VRA, Microsoft Visio.
