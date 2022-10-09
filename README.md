@@ -9,7 +9,7 @@
 
   **🛂**  Z4079902
 
-![image](https://user-images.githubusercontent.com/110538923/194756161-8f44b4ef-30ff-427a-9a59-f90282d03549.png)
+![SignatureLogosLatest](https://user-images.githubusercontent.com/110538923/194770594-eff12a0b-5058-4c47-9db8-04b81c04ad45.PNG)
 
 Hi ![image](https://user-images.githubusercontent.com/110538923/194757110-0b6ad973-0339-4886-9105-5ade7d4c30b7.png) There,
 
