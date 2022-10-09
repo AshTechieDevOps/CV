@@ -166,8 +166,7 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
   - Primary responsibility to manage all the server farm i.e. DC, File server, print server, Antivirus Server, Proxy server, DNS, Mail server, Firewall server etc.
   - Security of networks using the vulnerability assessment, Virus protection using Symantec Anti- Virus. Implementation of latest security patches for any intrusion
     and fixing bugs on OS.
-  - Central backups, backup scheduling and data recovery through Symantec Backup Exec and Symantec Live Stat Recovery server. Planning and Implementation of Inter-Site
-    Movement of critical Data Backup for Disaster recovery.
+  - Central backups, backup scheduling and data recovery through Symantec Backup Exec and Symantec Live Stat Recovery server. Planning and Implementation of Inter-    	   Site Movement of critical Data Backup for Disaster recovery.
   - Implementation of various policies including Security, Antivirus, Internet and OS hardening Based on ISO9001: 2000, BS 7799 and ITIL.
   - Responsible for second and third level support for desktops and servers.
   - Supporting offshore sites by using remote management tools like Dameware.
