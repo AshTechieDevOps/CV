@@ -1,4 +1,3 @@
-# Curriculum Vitae
 
 # Ashish Sharma
   **📨**  sendmail.ashish@gmail.com, ashish@ashtechie.com
