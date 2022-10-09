@@ -258,5 +258,5 @@ Wintel and VMWare BAU Support as a SENIOR ADVISOR.
 **Bachelor of Arts** in Double English<br>
 [Dr. Bhimrao Ambedkar University (Formerly known as Agra University)](http://www.dbrau.org.in/) - Agra, Uttar Pradesh, India _(1994 - 1997)_
 
-**Advanced Diploma in Cmputer Hardware and Maintenance** from Electronics Trade And Technology Development Corporation Ltd. <br>
+**Advanced Diploma in Computer Hardware and Maintenance** from Electronics Trade And Technology Development Corporation Ltd. <br>
 
