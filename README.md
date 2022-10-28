@@ -1,4 +1,5 @@
-<img width="571" alt="MyCVBannerLogo" src="https://user-images.githubusercontent.com/110538923/198582854-e0123eff-09c3-4a41-88ad-fe78d5c4e813.PNG">
+<img width="716" alt="MyCVBannerLogoNew" src="https://user-images.githubusercontent.com/110538923/198584729-95430ee9-15d7-47c3-970a-42493ca0ad65.PNG">
+
 
   **📨**  sendmail.ashish@gmail.com, ashish@ashtechie.com
   
