@@ -1,5 +1,5 @@
-
 # Ashish Sharma
+
   **📨**  sendmail.ashish@gmail.com, ashish@ashtechie.com
   
   **📱**  +919810553282
@@ -8,7 +8,7 @@
 
   **🛂**  Z4079902
 
-![SignatureLogosLatest](https://user-images.githubusercontent.com/110538923/194770594-eff12a0b-5058-4c47-9db8-04b81c04ad45.PNG)
+<img width="928" alt="MyCertLogosTill28Oct" src="https://user-images.githubusercontent.com/110538923/198580299-323051e9-d3ab-434f-a736-d1ffdff1a1ee.PNG">
 
 #### Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
