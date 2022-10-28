@@ -1,4 +1,4 @@
-# Ashish Sharma
+<img width="571" alt="MyCVBannerLogo" src="https://user-images.githubusercontent.com/110538923/198582854-e0123eff-09c3-4a41-88ad-fe78d5c4e813.PNG">
 
   **📨**  sendmail.ashish@gmail.com, ashish@ashtechie.com
   
