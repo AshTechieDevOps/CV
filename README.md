@@ -1,4 +1,4 @@
-<img width="716" alt="MyCVBannerLogoNew" src="https://user-images.githubusercontent.com/110538923/198584729-95430ee9-15d7-47c3-970a-42493ca0ad65.PNG">
+![MyBlogsGitHubFB-Banner](https://user-images.githubusercontent.com/110538923/198589080-ff89f217-82fa-447e-9060-36a80bbf1de1.PNG)
 
 
   **📨**  sendmail.ashish@gmail.com, ashish@ashtechie.com
