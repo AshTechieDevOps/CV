@@ -9,7 +9,7 @@
 
   **🛂**  Z4079902
 
-<img width="928" alt="MyCertLogosTill28Oct" src="https://user-images.githubusercontent.com/110538923/198580299-323051e9-d3ab-434f-a736-d1ffdff1a1ee.PNG">
+<img width="912" alt="AshTechieCertLogosTillPresent" src="https://user-images.githubusercontent.com/110538923/198997124-bc9d9d6a-2375-41c2-a8a4-d29051031916.PNG">
 
 #### Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -21,6 +21,7 @@
 
 ## 🏆 Active Certifications
 
+-	Google Certified Associate Cloud Engineer
 -	AWS Certifiled Solutions Architect Professional
 -	AWS Certified Solutions Architect Associate
 -	Microsoft Certified Cybersecurity Architect Expert
@@ -184,6 +185,7 @@ I have been to Sydney – Australia for Active Directory and VMware vSphere rela
 
 ## 🏆 Certificates & Trainings Accomplishments
 
+-	Google Certified Associate Cloud Engineer
 -	AWS Certified Solutions Architect Associate
 -	Microsoft Certified Cybersecurity Architect Expert
 -	Hashicorp Terraform Certified Associate
