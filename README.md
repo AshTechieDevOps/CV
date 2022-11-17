@@ -5,11 +5,11 @@
   
   **📱**  +919810553282
 
-  **⌨️**  [YouTube Channel](https://www.youtube.com/channel/UCH7LRlDE5ec_dVJgMIj3LcQ) / [GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [MyBlogs](https://blogs.ashtechie.com/) / [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
+  **⌨️**  [YouTube Channel](https://www.youtube.com/channel/UCH7LRlDE5ec_dVJgMIj3LcQ) / [GitHub](https://github.com/ashtechiedevops/) / [LinkedIn](https://www.linkedin.com/in/ashish-sharma-51b3a19/) / [MyBlogs](https://blogs.ashtechie.com/) /  [MyVideoTutorials(https://edu.ashtechie.com/) /  [Twitter](https://twitter.com/ashtechie777/) / [Instagram](https://www.instagram.com/ashtechieworld/)
 
   **🛂**  Z4079902
 
-<img width="912" alt="AshTechieCertLogosTillPresent" src="https://user-images.githubusercontent.com/110538923/198997124-bc9d9d6a-2375-41c2-a8a4-d29051031916.PNG">
+<img width="899" alt="AshTechieCertLogosFinal" src="https://user-images.githubusercontent.com/110538923/202397815-9694a2fa-e734-4411-856f-950ad54d83fc.PNG">
 
 #### Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
@@ -21,18 +21,20 @@
 
 ## 🏆 Active Certifications
 
--	Google Certified Associate Cloud Engineer
--	AWS Certifiled Solutions Architect Professional
--	AWS Certified Solutions Architect Associate
--	Microsoft Certified Cybersecurity Architect Expert
--	Hashicorp Terraform Certified Associate
--	Microsoft Certified DevOps Engineer Expert
--	Microsoft Certified Azure Security Engineer Associate
--	Microsoft Certified Azure Solutions Architect Expert
--	Microsoft Certified Azure Administrator Associate
--	Black Belt-Tech Expert-Hyperflex Deployment-Stage 1 FY22
--	Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
--	VMWare 2X Certified Professional - Datacenter & Network Virtualization
+- AWS Certified DevOps Engineer Professional
+- Google Certified Cloud Architect Professional
+- Google Certified Associate Cloud Engineer
+- AWS Certifiled Solutions Architect Professional
+- AWS Certified Solutions Architect Associate
+- Microsoft Certified Cybersecurity Architect Expert
+- Hashicorp Terraform Certified Associate
+- Microsoft Certified DevOps Engineer Expert
+- Microsoft Certified Azure Security Engineer Associate
+- Microsoft Certified Azure Solutions Architect Expert
+- Microsoft Certified Azure Administrator Associate
+- Black Belt-Tech Expert-Hyperflex Deployment-Stage 1 FY22
+- Black Belt-Tech Expert-Cisco UCS Deployment-Stage 1 FY22
+- VMWare 2X Certified Professional - Datacenter & Network Virtualization
 
 ## 👨‍💻 Work Experience Detail
 
