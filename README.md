@@ -38,12 +38,6 @@
 
 ## 👨‍💻 Work Experience Detail
 
-**Designation: - Senior Architect   Role: - Offshore Bicep and Github Actions Consultant )** @ [Pesistent Systems.](https://www.persistent.com/) _(Feb 2023 - Present)_ <br>
-Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, 		  Infrastructure as Code and Automation Solutions.
-
--	Understanding functional, and non-functional business requirements, and translate them into a Technical Solutions based on organizational needs.
--	Writing bicep modules as per the azure cloud solution design.
--	Writing GitHub Action Workflows to automate infrastructure as code as a reusable pipeline.
 
 **Designation: - Consultant   Role: - Data Center & Cloud Architect – Hybrid Cloud Integration (HCI)** @ [HCL Technologies Ltd.](https://www.hcltech.com/) _(Oct 2018 - Dec 2022)_ <br>
 Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, 		  Infrastructure as Code and Automation Solutions.
