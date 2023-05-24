@@ -38,7 +38,7 @@
 
 ## 👨‍💻 Work Experience Detail
 
-**Designation: - Senior Architect   Role: - Offshore Bicep and Github Actions Consultant )** @ [Persistent Systems.][https://www.persistent.com/)) _(Feb 2023 - Present)_ <br>
+**Designation: - Senior Architect   Role: - Offshore Bicep and Github Actions Consultant )** @ [Pesistent Systems.](https://www.persistent.com/) _(Feb 2023 - Present)_ <br>
 Projects based platform that enables professionals to provide Private, Public & Hybrid Cloud Solutions Design Offerings, Cloud Migration Solutions, 		  Infrastructure as Code and Automation Solutions.
 
 -	Understanding functional, and non-functional business requirements, and translate them into a Technical Solutions based on organizational needs.
